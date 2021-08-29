@@ -19,15 +19,4 @@ public class Worker {
                 " Stanowisko " + position +
                 " Wypłata " + salary;
     }
-    /*public String Pracownik(){// Metoda wypisuje wszytskie informacje z klasy Worker
-          s= " Imie " + Name +
-                " Nazwisko " + secondName +
-                " Wiek " + age +
-                " Stanowisko " + position +
-                " Wypłata " + salary;
-                return s;
-                można zapisać tak ale to jest dłuzszy kod
-                wywoładnie
-                System.out.println(pracownik.Pracownik();
-    };*/
 }
