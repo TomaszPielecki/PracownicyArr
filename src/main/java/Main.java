@@ -18,5 +18,9 @@ public class Main
         }
         Array.arr();
         Array.arr1();
+        //nowy obiekt dla klasy Person
+        Person osoba= new Person("Tomasz");
+        System.out.println(osoba.getName());//pobranie imienia
     }
+
 }
